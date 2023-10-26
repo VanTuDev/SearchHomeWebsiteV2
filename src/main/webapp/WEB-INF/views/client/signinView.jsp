@@ -54,8 +54,11 @@
                 <br>
                 <h1>Login with Google</h1>
                 <a> Quên mật khẩu  </a>
-                <a href="https://accounts.google.com/o/oauth2/auth?client_id=1088499236693-v50rr2v1k9p3t17khkcum2og4l0g3a3v.apps.googleusercontent.com&redirect_uri=http://localhost:8080/demo1_war_exploded/callback&response_type=code&scope=openid%20email&access_type=online&approval_prompt=auto">
-                    <img src="google-login-button.png" alt="Login with Google">
+                <a class="text-light"
+                   href="https://accounts.google.com/o/oauth2/auth?client_id=1088499236693-j3p4cgo5gb3h8g0nhl3nifodifg14ke4.apps.googleusercontent.com
+&redirect_uri=http://localhost:8080/TimNhaDaNang_war_exploded/callback
+&response_type=code&scope=email&prompt=select_account" >
+                    Đăng nhập  Google
                 </a>
 
             </form>
